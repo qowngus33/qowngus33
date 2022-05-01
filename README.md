@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=👩🏻‍💻🐕🐈👥⬆️&fontSize=90" />
 
-### Hi I'm qowngus33 👋
+## Hi I'm qowngus33 👋
 
-##### I'm Studying ...📖
+#### I'm Studying ...📖
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=cplusplus&logoColor=white"/>
 
   
@@ -12,7 +12,7 @@
 
 
 
-##### My Tools are ...🔨
+#### My Tools are ...🔨
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"/> <img src="https://img.shields.io/badge/eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ&logoColor=white"/></n></n></n>
 
 
