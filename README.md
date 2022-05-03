@@ -19,7 +19,6 @@
 
 <p align=""></p>
 
-</br>
 
 
 <h3 align="">💡 My Most Used Languages 💡</h3>
@@ -29,7 +28,7 @@
   </a></p>
   
   
-  </br>
+  
   
   
  <h3 align="">💡 My Git Stats 💡</h3>
