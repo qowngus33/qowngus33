@@ -10,7 +10,7 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=qowngus33)](https://solved.ac/qowngus33)
 
-
+</br>
 
 <h3 align="">My Tools are ...🔨</h3>
 <p align="">
@@ -19,16 +19,16 @@
 
 <p align=""></p>
 
+</br>
 
-
-<h3 align="">💡 My Most Used Languages💡</h3>
+<h3 align="">💡 My Most Used Languages 💡</h3>
 <p align="">
   <a href="https://github.com/qowngus33">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qowngus33&layout=compact&show_icons=$ture&show_owner=$ture&hide_title=$ture&theme=$ture&hide=$ture" />
   </a></p>
   
   
-  
+  </br>
   
   
  <h3 align="">💡 My Git Stats 💡</h3>
