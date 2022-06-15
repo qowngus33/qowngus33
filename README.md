@@ -8,7 +8,8 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </p>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=qowngus33)](https://solved.ac/qowngus33)
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=qowngus33)](https://solved.ac/qowngus33)
 
 </br>
 
