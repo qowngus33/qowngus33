@@ -43,5 +43,6 @@
  
 <h3 align="">  Contact me through ... 📧 </h3>
 
-<a href="[버튼을 눌렀을 때 이동할 링크](mailto:qowngus33@gmail.com)" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a> <a href="[버튼을 눌렀을 때 이동할 링크](mailto:qowngus33@gmail.com)" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a> <a href="[버튼을 눌렀을 때 이동할 링크](https://www.instagram.com/kk_eezz/)" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+<a href="mailto:qowngus33@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a> <a href="https://www.instagram.com/kk_eezz/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 
