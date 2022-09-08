@@ -36,7 +36,7 @@
   </a>
 </p></br>
 
-<h4 align="">Contact me through ...📧 </h4>
+<h4 align="">Contact me through </h4>
 
 <a href="mailto:qowngus33@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a> <a href="https://www.instagram.com/kk_eezz/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
