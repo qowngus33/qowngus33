@@ -4,7 +4,7 @@
 ## Hi I'm JuHyun Bae 👋
 
 
-* I'm Studying Computer Science and Engineering in SeoulTech
+* I'm Studying **Computer Science and Engineering** in **SeoulTech**
 * My interests are **Computer Vision**, **Natural Language Processing**, **Machine Learning**, **Deep Learning**
 
 
