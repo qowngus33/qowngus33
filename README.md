@@ -27,12 +27,12 @@
 
 <p align="">
   <a href="https://github.com/qowngus33">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qowngus33&layout=compact&show_icons=$ture&show_owner=$ture&hide_title=$ture&theme=$ture&hide=$ture" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qowngus33&layout=compact&show_icons=$ture&show_owner=$ture&hide_title=$ture&theme=gruvbox&hide=$ture" />
   </a></p>
   
  <p align="">
   <a href="https://github.com/$qowngus33">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=qowngus33&hide=ture&hide_title=$ture&show_icons=$ture&include_all_commits=$ture&theme=$nord" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=qowngus33&hide=ture&hide_title=$ture&show_icons=$ture&include_all_commits=$ture&theme=gruvbox" />
   </a>
 </p></br>
 
