@@ -5,7 +5,7 @@
 
 
 * I'm Studying **Computer Science and Engineering** at **SeoulTech**
-* My interests are **Computer Vision**, **Natural Language Processing**, **Machine Learning**, **Deep Learning**
+* My interests are **Computer Vision**, **Machine Learning**, **Deep Learning**
 
 
 </br> <h4 align="">Languages & Tools</h4>
