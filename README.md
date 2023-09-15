@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&customColorList=6,7,8,9&section=header&text=Develop👩🏻‍💻Collaborate👥Growth⬆️&fontSize=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&customColorList=6,7,8,9&section=header&text=Develop👩🏻‍💻Collaborate👥Improve⬆️&fontSize=35" />
 
 ## Hi I'm JuHyun Bae 👋
 
