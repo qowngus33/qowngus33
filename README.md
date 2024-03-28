@@ -1,16 +1,13 @@
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&customColorList=6,7,8,9&section=header&text=Develop👩🏻‍💻Interact👥Improve⬆️&fontSize=35" />
-
 ## Hi I'm JuHyun Bae 👋
 
 
 * I'm Studying **Computer Science and Engineering** at **SeoulTech**
-* My interests are **Computer Vision**, **Machine Learning**, **Deep Learning**
+* My interests are **Computer Vision**, **Natural Language Processing**, **Deep Learning**
 
 
 </br> <h4 align="">Languages & Tools</h4>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 </p> 
 
 <p align="">
@@ -40,5 +37,4 @@
 
 <h4 align="">Contact me through </h4>
 
-<a href="mailto:qowngus33@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a> <a href="https://www.instagram.com/kk_eezz/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+<a href="mailto:qowngus33@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a> 
