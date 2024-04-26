@@ -20,7 +20,6 @@
 
 <h4 align=""> My Stats </h4>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=qowngus33)](https://solved.ac/qowngus33)
   
  <p align="">
   <a href="https://github.com/$qowngus33">
@@ -33,8 +32,3 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qowngus33&layout=compact&show_icons=$ture&show_owner=$ture&hide_title=$ture&theme=gruvbox&hide=$ture" />
   </a></p>
 
-</br>
-
-<h4 align="">Contact me through </h4>
-
-<a href="mailto:qowngus33@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a> 
